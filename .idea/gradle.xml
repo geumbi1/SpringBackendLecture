@@ -30,10 +30,58 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecuritySessionBasedArchi" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecuritySessionBasedArchi" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/SpringSecurityTokenJWT" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/SpringSecurityTokenJWT" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/coffeeorder" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/coffeeorder" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-security-advanced-session" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-security-advanced-session" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-security-jwt-demo" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/spring-security-jwt-demo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/springsecurity" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/springsecurity" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/springsecuritysessionmanagementcore" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/springsecuritysessionmanagementcore" />
           </set>
         </option>
       </GradleProjectSettings>
